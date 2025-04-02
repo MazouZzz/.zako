@@ -1,0 +1,334 @@
+{
+  "basics": {
+    "name": "Zakaria MAZOUZ",
+    "label": "Étudiant en BTS SIO - Option SLAM",
+    "image": "/me_avatar.jpg",
+    "email": "mazouzakaria.123@gmail.com",
+    "phone": "0618854954",
+    "url": "https://zakaria-mazouz.dev",
+    "summary": "Étudiant en BTS SIO passionné par le développement web et les nouvelles technologies. Expérience en création de sites web sous WordPress avec Elementor Pro et WooCommerce. Capable de travailler en équipe et de résoudre des problèmes techniques sur divers appareils électroniques.",
+    "theme": "default",
+    "location": {
+      "address": "8 Rue Saint-Denis",
+      "postalCode": "93400",
+      "city": "Saint-Ouen",
+      "countryCode": "FR",
+      "region": "Île-de-France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "zakaria-mazouz",
+        "url": "https://linkedin.com/in/zakaria-mazouz"
+      },
+      {
+        "network": "GitHub",
+        "username": "zakaria-mazouz",
+        "url": "https://github.com/MazouZzz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "AIZEN CONSULTING",
+      "position": "Stagiaire - Développement Web",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "url": "https://aizenconsulting.com/en/",
+      "startDate": "2025-01-06",
+      "endDate": "2025-02-14",
+      "summary": "Développement et mise en ligne de sites web sous WordPress avec Elementor Pro.",
+      "highlights": [
+        "Création et personnalisation de sites vitrine sous WordPress",
+        "Utilisation de WooCommerce pour la gestion d'un site e-commerce"
+      ],
+      "responsibilities": [
+        "Création et personnalisation de pages avec Elementor Pro.",
+        "Optimisation du design et de l'expérience utilisateur.",
+        "Gestion des produits et configurations WooCommerce."
+      ],
+      "achievements": [
+        "Mise en ligne réussie de deux sites web professionnels."
+      ],
+      "skills": ["WordPress", "Elementor Pro", "CSS", "WooCommerce"]
+    },
+    {
+      "name": "IMAMBO RICHAUD",
+      "position": "Stagiaire - Conception de site web",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-31",
+      "summary": "Création et mise en ligne d'un site web avec personnalisation CSS.",
+      "highlights": [
+        "Développement et stylisation de sites web via CSS."
+      ],
+      "skills": ["WordPress", "CSS"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "École d’Informatique IRIS Paris",
+      "url": "https://iris.com",
+      "area": "BTS SIO - Option SLAM",
+      "studyType": "Diplôme",
+      "startDate": "2023-09-01",
+      "endDate": "2024-06-01",
+      "score": "",
+      "courses": ["HTML", "CSS", "PHP", "JavaScript", "Bases de données"]
+    }
+  ],
+  "certificates": ["Pix"],
+  "skills": [
+    {
+      "name": "WordPress",
+      "level": "Intermédiaire",
+      "keywords": ["CMS", "Développement Web"]
+    },
+    {
+      "name": "Elementor Pro",
+      "level": "Intermédiaire",
+      "keywords": ["Design", "UI/UX"]
+    },
+    {
+      "name": "WooCommerce",
+      "level": "Débutant",
+      "keywords": ["E-commerce", "Gestion de produits"]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermédiaire",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermédiaire",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "Travail en équipe",
+      "level": "Avancé",
+      "keywords": ["Communication", "Collaboration"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Intermédiaire"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Boxe anglaise", "MMA", "Rugby", "Natation"]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Aizen Recrutement",
+      "isActive": true,
+      "description": "Site vitrine pour une agence de recrutement.",
+      "highlights": [
+        "Développement sous WordPress avec Elementor Pro."
+      ],
+      "url": "https://aizenrecruitment.com"
+    },
+    {
+      "name": "Aizen Consulting",
+      "isActive": true,
+      "description": "Site professionnel pour une société de consulting.",
+      "highlights": [
+        "Développement sous WordPress avec personnalisation CSS."
+      ],
+      "url": "https://aizenconsulting.com"
+    },
+    {
+      "name": "E-commerce (en cours)",
+      "isActive": false,
+      "description": "Développement d'un site e-commerce avec WooCommerce.",
+      "highlights": [
+        "Configuration de WooCommerce et gestion des produits."
+      ],
+      "url": ""
+    },
+    {
+      "name": "Veille Technologique",
+      "isActive": true,
+      "description": "Analyse des évolutions majeures de la guerre moderne, notamment l'utilisation des drones et les attaques cybercriminelles.",
+      "highlights": [
+        "Collecte d'informations sur une période d'un an, mises à jour tous les 5 jours avec sources et dates."
+      ],
+      "url": "",
+      "entries": [
+        {
+          "date": "2001-10-01",
+          "title": "Premiers Drones Armés",
+          "description": "Sous George W. Bush, les États-Unis utilisent des drones armés en Afghanistan, comme le Predator MQ-1, pour des frappes précises.",
+          "source": "BBC News"
+        },
+        {
+          "date": "2010-06-15",
+          "title": "Le Virus Stuxnet",
+          "description": "Stuxnet, attribué aux États-Unis et Israël, cible les centrifugeuses iraniennes, marquant une avancée majeure dans la cyberguerre.",
+          "source": "The New York Times"
+        },
+        {
+          "date": "2014-03-22",
+          "title": "Drones dans le Conflit Ukrainien",
+          "description": "Sous Petro Porochenko, l'Ukraine utilise des drones pour surveiller les mouvements des séparatistes pro-russes.",
+          "source": "Reuters"
+        },
+        {
+          "date": "2015-05-12",
+          "title": "Cyberattaques en Ukraine",
+          "description": "Des cyberattaques perturbent les systèmes de communication et d'énergie en Ukraine, poussant Porochenko à renforcer la cybersécurité.",
+          "source": "Wired"
+        },
+        {
+          "date": "2016-10-10",
+          "title": "Drones dans le Conflit Syrien",
+          "description": "La Russie et la Syrie utilisent des drones pour la reconnaissance et les frappes, approuvés par Vladimir Poutine.",
+          "source": "The Guardian"
+        },
+        {
+          "date": "2017-06-27",
+          "title": "Attaque NotPetya",
+          "description": "Le malware NotPetya paralyse des entreprises en Ukraine et dans le monde, attribué à la Russie et condamné par Porochenko.",
+          "source": "CNN"
+        },
+        {
+          "date": "2017-06-21",
+          "title": "Drones contre Daech",
+          "description": "Sous Donald Trump, les États-Unis utilisent des drones pour des frappes précises contre Daech en Irak et en Syrie.",
+          "source": "Al Jazeera"
+        },
+        {
+          "date": "2017-05-12",
+          "title": "Attaque WannaCry",
+          "description": "Le ransomware WannaCry affecte le NHS au Royaume-Uni, Theresa May appelle à renforcer la cybersécurité.",
+          "source": "BBC News"
+        },
+        {
+          "date": "2018-06-07",
+          "title": "Drones au Yémen",
+          "description": "La coalition dirigée par l'Arabie Saoudite utilise des drones contre les Houthis, soutenue par Mohammed ben Salmane.",
+          "source": "The Washington Post"
+        },
+        {
+          "date": "2019-06-24",
+          "title": "Attaque Cyber sur l'Iran",
+          "description": "Une cyberattaque cible les installations pétrolières iraniennes, Hassan Rohani accuse les États-Unis et promet des représailles.",
+          "source": "The New York Times"
+        },
+        {
+          "date": "2019-11-18",
+          "title": "Drones en Libye",
+          "description": "Les forces de Khalifa Haftar utilisent des drones pour des frappes, soutenues par les Émirats arabes unis.",
+          "source": "Reuters"
+        },
+        {
+          "date": "2020-06-19",
+          "title": "Attaque Cyber Australienne",
+          "description": "Une cyberattaque cible les infrastructures critiques australiennes, Scott Morrison annonce des investissements en cybersécurité.",
+          "source": "ABC News"
+        },
+        {
+          "date": "2020-09-27",
+          "title": "Drones au Nagorno-Karabakh",
+          "description": "Les drones jouent un rôle crucial dans le conflit entre l'Arménie et l'Azerbaïdjan, salués par Ilham Aliyev.",
+          "source": "BBC News"
+        },
+        {
+          "date": "2020-12-17",
+          "title": "Attaque SolarWinds",
+          "description": "La cyberattaque SolarWinds compromet plusieurs agences américaines, Joe Biden ordonne une enquête approfondie.",
+          "source": "CNN"
+        },
+        {
+          "date": "2021-11-18",
+          "title": "Drones en Éthiopie",
+          "description": "Les drones sont utilisés dans le conflit au Tigré pour des missions de surveillance et des frappes, autorisés par Abiy Ahmed.",
+          "source": "Al Jazeera"
+        },
+        {
+          "date": "2022-03-12",
+          "title": "Utilisation de l'IA dans les Conflits Modernes",
+          "description": "Les États-Unis intègrent l'IA dans leurs systèmes de défense, Joe Biden approuve des fonds pour le développement de l'IA militaire.",
+          "source": "Defense News"
+        },
+        {
+          "date": "2022-04-25",
+          "title": "Drones Autonomes en Turquie",
+          "description": "La Turquie déploie des drones autonomes en Libye, Recep Tayyip Erdoğan salue leur efficacité.",
+          "source": "Al Jazeera"
+        },
+        {
+          "date": "2023-05-05",
+          "title": "Cyberattaque contre l'Australie",
+          "description": "Une cyberattaque cible les infrastructures critiques australiennes, Scott Morrison annonce des investissements en cybersécurité.",
+          "source": "ABC News"
+        },
+        {
+          "date": "2023-07-03",
+          "title": "Nouveaux Drones de Surveillance",
+          "description": "Des drones équipés de capteurs avancés sont déployés pour surveiller les zones de conflit, permettant une détection précoce des menaces.",
+          "source": "Bulletin technologique militaire"
+        },
+        {
+          "date": "2023-06-18",
+          "title": "Cyberconflit en Palestine",
+          "description": "Une attaque cyber vise les systèmes informatiques palestiniens, perturbant les communications et les opérations logistiques.",
+          "source": "Rapport de sécurité informatique"
+        },
+        {
+          "date": "2023-10-12",
+          "title": "Drones dans le Conflit au Yémen",
+          "description": "La coalition dirigée par l'Arabie Saoudite utilise des drones contre les Houthis, soutenue par Mohammed ben Salmane.",
+          "source": "The Washington Post"
+        },
+        {
+          "date": "2023-11-02",
+          "title": "Cyberattaque contre l'Iran",
+          "description": "Une cyberattaque cible les installations pétrolières iraniennes, Hassan Rohani accuse les États-Unis et promet des représailles.",
+          "source": "The New York Times"
+        },
+        {
+          "date": "2023-12-15",
+          "title": "Drones dans le Conflit en Libye",
+          "description": "Les forces de Khalifa Haftar utilisent des drones pour des frappes, soutenues par les Émirats arabes unis.",
+          "source": "Reuters"
+        },
+        {
+          "date": "2024-01-22",
+          "title": "Cyberattaque contre les États-Unis",
+          "description": "La cyberattaque SolarWinds compromet plusieurs agences américaines, Joe Biden ordonne une enquête approfondie.",
+          "source": "CNN"
+        },
+        {
+          "date": "2024-02-08",
+          "title": "Drones dans le Conflit en Éthiopie",
+          "description": "Les drones sont utilisés dans le conflit au Tigré pour des missions de surveillance et des frappes, autorisés par Abiy Ahmed.",
+          "source": "Al Jazeera"
+        },
+        {
+          "date": "2025-01-05",
+          "title": "Nouvelle Génération de Drones de Combat",
+          "description": "Les États-Unis annoncent le déploiement de drones capables de voler plus longtemps et de transporter des charges plus lourdes.",
+          "source": "Communiqué de presse de la Maison Blanche"
+        },
+        {
+          "date": "2025-02-15",
+          "title": "Cyberattaque sur les Réseaux Énergétiques Européens",
+          "description": "Une cyberattaque massive cible les réseaux énergétiques européens, provoquant des pannes de courant.",
+          "source": "Agence de presse européenne"
+        }
+      ]
+    }
+  ]
+}
